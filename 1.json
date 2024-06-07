@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "service_code": "electricity",
+        "amount": 1500,
+        "date": "2024-01-01",
+        "building_id": 101
+    },
+    {
+        "id": 2,
+        "service_code": "water",
+        "amount": 500,
+        "date": "2024-01-01",
+        "building_id": 102
+    },
+    {
+        "id": 3,
+        "service_code": "cleaning",
+        "amount": 800,
+        "date": "2024-01-01",
+        "building_id": 103
+    }
+]
